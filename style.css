@@ -36,13 +36,26 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+#shoes1 {
+    background-image: url("img/01.png");
+    display: inline;
+    height: 600px;
+    width: 800px;
+    z-index: 1;
+}
+
 #green {
     background-color: green;
 }
 
-
+#shoes2 {
+    background-image: url("img/02.png");
+}
 
 #yellow {
     background-color: yellow;
 }
 
+#shoes3 {
+    background-image: url("img/03.png") ;
+}

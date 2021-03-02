@@ -37,7 +37,7 @@
     font-weight: bolder;
 }
 
-#shoes {
+.shoes {
     object-fit: cover;
     position: absolute;
     left: 25%;

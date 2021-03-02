@@ -38,12 +38,11 @@
 }
 
 #shoes1 {
-    background-image: url("img/01.png");
-    display: inline-block;
-    height: 600px;
-    width: 800px;
-    z-index: 1;
-    transform: translate(50%, 50%);
+    object-fit: cover;
+    position: absolute;
+    left: 25%;
+   
+    
 }
 
 #green {

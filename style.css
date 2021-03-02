@@ -44,12 +44,14 @@
 }
 
 .punta {
+    text-align: center;
+    font-weight: bolder;
     font-size: xx-large;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: yellow;
     position: absolute;
     top: 70%;
-    left: 40%;
+    left: 43%;
 }
 
 #punta3 {

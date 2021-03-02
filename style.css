@@ -37,26 +37,22 @@
     font-weight: bolder;
 }
 
-#shoes1 {
+#shoes {
     object-fit: cover;
     position: absolute;
     left: 25%;
-   
-    
+}
+
+h1 {
+    position: absolute;
+    top: 70%;
+    left: 40%;
 }
 
 #green {
     background-color: green;
 }
 
-#shoes2 {
-    background-image: url("img/02.png");
-}
-
 #yellow {
     background-color: yellow;
-}
-
-#shoes3 {
-    background-image: url("img/03.png") ;
 }

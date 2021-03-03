@@ -40,7 +40,7 @@
 .shoes {
     object-fit: cover;
     position: absolute;
-    left: 25%;
+    transform: translate(50%, 5%);
 }
 
 .punta {
@@ -50,8 +50,7 @@
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: yellow;
     position: absolute;
-    top: 70%;
-    left: 43%;
+    transform: translate(290%, 700%)
 }
 
 #punta3 {

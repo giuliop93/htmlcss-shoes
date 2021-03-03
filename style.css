@@ -41,7 +41,7 @@
     object-fit: cover;
     position: absolute;
     left: 50%;
-    transform: translate(-50%, 5%);
+    transform: translateX(-50%);
 }
 
 .punta {
@@ -51,7 +51,8 @@
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: yellow;
     position: absolute;
-    transform: translate(290%, 700%)
+    left: 50%;
+    transform: translate(-50%, 650%);
 }
 
 #punta3 {
